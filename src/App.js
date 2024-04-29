@@ -1,4 +1,3 @@
-// App.js - Main component
 import React, { useState } from 'react';
 import TransactionTable from './TransactionTable';
 import TransactionForm from './TransactionForm';
